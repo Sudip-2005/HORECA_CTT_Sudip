@@ -74,15 +74,7 @@ To make the project visually appealing:
 
 ---
 
-## Navigation Buttons
 
-[**View Notebook**](./notebooks/HORECA_DS_Sudip.ipynb){style="background:#4CAF50; padding:10px 15px; color:white; border-radius:8px; text-decoration:none;"}
-
-[**Download Dataset**](./dataset/){style="background:#2196F3; padding:10px 15px; color:white; border-radius:8px; text-decoration:none;"}
-
-[**View Presentation**](./presentations/HORECA_Analysis_PPT.pptx){style="background:#FF9800; padding:10px 15px; color:white; border-radius:8px; text-decoration:none;"}
-
----
 
 ## How to Run the Notebook
 
