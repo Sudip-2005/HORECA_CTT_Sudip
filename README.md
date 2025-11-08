@@ -7,12 +7,12 @@ This repository contains a complete data analysis workflow for the HORECA datase
 ## Repository Structure
 
 ```
-├── dataset/               # Raw dataset used for analysis
-├── notebooks/
-│   └── HORECA_DS_Sudip.ipynb   # Full data cleaning + EDA notebook
-├── presentations/
-│   └── HORECA_Analysis_PPT.pptx
-├── README.md              # Documentation and guide
+├── HEROCA_by_Sudip.pdf                # Presentation
+├── HORECA_DS_Sudip.ipynb              # Main Data Analysis File
+├── License 
+├── README.md                          # Documentation and guide
+├── Zomato Dataset.csv                 # Raw dataset used for analysis
+├── zomato_dataset_data_description.xlsx             
 ```
 
 ## Key Contents
