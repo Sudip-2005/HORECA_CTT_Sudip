@@ -81,7 +81,7 @@ To make the project visually appealing:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/HORECA-Data-Analysis.git
+   git clone https://github.com/Sudip-2005/HORECA-Data-Analysis.git
    ```
 2. Install dependencies:
 
